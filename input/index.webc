@@ -1,0 +1,7 @@
+---
+layout: base.webc
+title: Redblogg
+---
+
+<h1 @html="title" class="logo"></h1>
+
